@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayush451
 - 👀 I’m interested in Fullstack Web developer more backend
-- 🌱 I’m currently learning React and Node.js (Javascript and Python).
+- 🌱 I’m currently learning/mastering React.
 - 💞️ I’m looking to collaborate on any projects. 
 - 📫 How to reach me ayushrt2000@hotmail.com
 
